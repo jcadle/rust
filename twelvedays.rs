@@ -1,4 +1,3 @@
-use std::ops::Index;
 
 fn main() {
     let days = [
